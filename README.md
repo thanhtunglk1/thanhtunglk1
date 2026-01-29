@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen Thanh Tung
 
-<!--
-**thanhtunglk1/thanhtunglk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fourth-year **Electronics & Telecommunications Engineering** student at  
+**Ho Chi Minh City University of Technology (HCMUT), VNU-HCM**
 
-Here are some ideas to get you started:
+🔍 Strong interest in **Digital IC Design, Computer Architecture, FPGA, DSP, and SoC Design**  
+🛠 Hands-on experience with **RISC-V processors, FPGA implementation, and system-level verification**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Thu Duc, Ho Chi Minh City  
+📧 Email: tung.nguyenfrom108bku@hcmut.edu.vn  
+🔗 LinkedIn: linkedin.com/in/Thanh-Tung  
+🐙 GitHub: github.com/Thanh-Tung
+
+---
+
+## 🎯 Objective
+Seeking an **internship in Digital Design / IC Design / FPGA Engineering**, where I can apply my knowledge of digital logic, computer architecture, and verification to real-world engineering problems.
